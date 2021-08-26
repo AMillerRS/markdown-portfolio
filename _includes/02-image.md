@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Happy Birthday Linux](https://scontent.fmkc1-1.fna.fbcdn.net/v/t1.6435-9/s960x960/240565252_10224945989051934_915612956346919541_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=825194&_nc_ohc=TTBHp2qrt6AAX_5OF4X&_nc_ht=scontent.fmkc1-1.fna&oh=85bf206091ce76540ab03374cdcdd3f7&oe=614E3EC8)
